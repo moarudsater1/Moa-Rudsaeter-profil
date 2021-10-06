@@ -1,0 +1,29 @@
+* {
+    background-color: lightgreen;
+}
+
+h1 {
+    color: indianred;
+    border: 5px dotted blueviolet;
+    padding: 50px;
+}
+
+h2, h3 {
+    color:darkolivegreen;
+    border: 5px dotted white;
+    padding: 30px;
+}
+
+a:hover {
+    background-color: azure;
+}
+
+blockquote {
+    border: 5px dotted white;
+    padding: 30px;
+}
+
+img {
+    border: 30px solid lightcyan;
+    padding: 30px;
+}
